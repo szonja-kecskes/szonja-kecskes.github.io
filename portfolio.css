@@ -1,0 +1,153 @@
+<<<<<<< HEAD
+
+body{
+    font-family: 'Muli', 'Arial';
+    padding-top: 54px;
+    background-color:#1F2833;
+    color:  #C5C6C7;
+}
+
+
+.img-profile {
+    max-width: 240px;
+    border-radius: 50%;
+    border: 0.5rem solid #45A29E;
+    margin: 0 auto;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-transform: uppercase;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 700;
+  color: #66FCF1;
+}
+
+h1 {
+  font-size: 6rem;
+  line-height: 5.5rem;
+  
+}
+
+h2 {
+  font-size: 3.5rem;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+section.resume-section {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    max-width: 75rem;
+}
+
+section.resume-section .resume-date {
+    min-width: none;
+}
+
+.subheading {
+    text-transform: uppercase;
+    font-weight: 500;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1.5rem;
+    color: #66FCF1;
+}
+
+.center{
+  text-align: center;
+}
+
+.button{
+  background-color: #1F2833;
+  color: #C5C6C7;
+
+}
+
+.text-primary{
+  color: #45A29E
+}
+
+=======
+
+body{
+    font-family: 'Muli', 'Arial';
+    padding-top: 54px;
+    background-color:#1F2833;
+    color:  #C5C6C7;
+}
+
+
+.img-profile {
+    max-width: 240px;
+    border-radius: 50%;
+    border: 0.5rem solid #45A29E;
+    margin: 0 auto;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-transform: uppercase;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 700;
+  color: #66FCF1;
+}
+
+h1 {
+  font-size: 6rem;
+  line-height: 5.5rem;
+  
+}
+
+h2 {
+  font-size: 3.5rem;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+section.resume-section {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    max-width: 75rem;
+}
+
+section.resume-section .resume-date {
+    min-width: none;
+}
+
+.subheading {
+    text-transform: uppercase;
+    font-weight: 500;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1.5rem;
+    color: #66FCF1;
+}
+
+.center{
+  text-align: center;
+}
+
+.button{
+  background-color: #1F2833;
+  color: #C5C6C7;
+
+}
+
+.text-primary{
+  color: #45A29E
+}
+
+>>>>>>> 8b6e27aa0743c9edc5294f47a9b4a408d0569d8a
